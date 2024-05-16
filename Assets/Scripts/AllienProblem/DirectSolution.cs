@@ -12,6 +12,9 @@ namespace AllienProblem
             {
                 Allien allien = new Allien();
 
+
+
+
                 //Without Flyweight - Direct Assignment
                 allien.eyePositions = GetBodyPartPositions();
                 allien.legPositions = GetBodyPartPositions();
